@@ -1,2 +1,2 @@
 # FilmesApi
-REST API illustrating CRUD operations for a movie stream.
+REST API developed with the C# language, .NET 6, Entity Framework 6, Swagger, AutoMapper, MySQL database and Postman.
